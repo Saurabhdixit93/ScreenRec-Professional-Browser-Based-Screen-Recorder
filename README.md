@@ -1,6 +1,6 @@
 # ScreenRec: Professional Browser-Based Screen Recorder
 
-![ScreenRec Feature Image](https://raw.githubusercontent.com/username/project/main/public/thumbnail.png)<!-- Link to actual image if available elsewhere -->
+![ScreenRec Feature Image](https://github.com/Saurabhdixit93/ScreenRec-Professional-Browser-Based-Screen-Recorder/blob/main/public/SS.png?raw=true)<!-- Link to actual image if available elsewhere -->
 
 ScreenRec is a modern, privacy-focused, and high-performance screen recording application built with Next.js and Tailwind CSS. It allows you to record your screen, microphone, and system audio directly from your browser with zero latency and absolute privacy—all processing happens locally on your device.
 
